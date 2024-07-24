@@ -1,6 +1,6 @@
 export class HelloWorld {
  
   hello(other: HelloWorld): string {
-    return "HelloWorld - Now with CI";
+    return "HelloWorld - Now with CI ";
   }
 }
